@@ -7,7 +7,7 @@ var UsersList = [{
                     name: "Adam",
                     age: 29,
                     gender: "M",
-                    image_url: "https://profile.actionsprout.com/default.jpeg",
+                    image_url: "https://docs.moodle.org/26/en/images_en/7/7c/F1.png",
                     description: "Adventurous and intuitive",
                     location: "225 Bush Street,SFO"
 
@@ -15,7 +15,7 @@ var UsersList = [{
                  {  name: "Nick",
                     age: 26,
                     gender: "M",
-                    image_url: "https://profile.actionsprout.com/default.jpeg",
+                    image_url: "https://docs.moodle.org/26/en/images_en/7/7c/F1.png",
                     description: "Generous and adventurous",
                     location: "225 Bush Street,SFO"
                  },
